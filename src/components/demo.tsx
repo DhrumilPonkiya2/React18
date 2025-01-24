@@ -1,6 +1,5 @@
 import { useState } from "react";
 import viteLogo from "/vite.svg";
-import "@assets/styles/App.css";
 
 const Demo = () => {
   const [count, setCount] = useState(0);
