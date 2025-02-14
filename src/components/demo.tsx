@@ -17,7 +17,7 @@ const Demo = () => {
       <p className="read-the-docs">
         Delete this Component from ./src/components & Remove route configuration from ./route/app.route.tsx
       </p>
-      <p className="read-the-docs">after that start your development</p>
+      {/* <p className="read-the-docs">after that start your development</p> */}
     </>
   );
 };
